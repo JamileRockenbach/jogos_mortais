@@ -1,6 +1,6 @@
-### Jogos Mortais - Terminal Edition!!
+### Jogos Mortais - Terminal Edition ☠️
 
-Desenvolvido por **Jamile Rockenbach Ferreira** 
+Desenvolvido por **Jamile Rockenbach Ferreira**.
 Projeto da disciplina de Pensamento Computacional, 1° semestre de **Ciência da Computação**.
 *"Vamos jogar um jogo?" – Jigsaw*
 
@@ -14,7 +14,7 @@ Você aceita jogar?
 
 ---
 
-## 🎮 Sobre o Jogo
+## Sobre o Jogo:
 Você será desafiado em **5 fases mortais**:
 
 1. 🎯 **Acerte o Número** – A sorte decide se você vive.
@@ -29,7 +29,7 @@ Simples assim. ☠️
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas:
 
 - Python 3
 - pyttsx3 – narração em voz
