@@ -14,7 +14,6 @@ Você aceita jogar?
 
 ---
 
-## Sobre o Jogo:
 Você será desafiado em **5 fases mortais**:
 
 1. 🎯 **Acerte o Número** – A sorte decide se você vive.
